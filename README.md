@@ -1,4 +1,4 @@
-👋 Hi! I'm Kristofer Tsai, a Computer Science student at UCLA with a passion for data science and artificial intelligence. 
+👋 Hi! I'm Kristofer Tsai, a Engineering student at UCLA with an interest in data science and artificial intelligence. 
 - With past experience in machine learning, analytics, and applied AI, I am interested in creating impactful projects through data science.
 
 🌟 Professional Highlights:
@@ -24,7 +24,7 @@
 - AI-driven/data analysis projects, sports performance modelling
 
 ⚡ Fun Fact:
-- I once completed an entire sports data science project to prove to myself that I was playing golf wrong. (Spoiler: I was!)
+- I once completed an entire sports data science project to prove to myself that I was playing golf wrong.
 
 📫 Reaching me:
 - Email: kristofertsai@gmail.com
