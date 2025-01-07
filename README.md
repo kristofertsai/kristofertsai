@@ -8,7 +8,7 @@
 - Singapore Mint: Assisted with data digitisation, audits, and market research to enhance operations for minting circulation coins.
 
 📁 Projects:
-- [PGA Tour Analytics](---): Explored key performance metrics and modelled trends using Python, Pandas, and Matplotlib to drive actionable insights.
+- [Bruin Sports Analytics](https://github.com/kristofertsai/Bruin-Sports-Analytics): Analyzed the relationship between driving distance and scoring performance on the Professional Golf Association (PGA) Tour, contributing to predictive modelling
 - [NBA Game Outcome Predictor](---): Developed a machine learning pipeline to predict NBA game results, extracting data via API and experimenting with multiple classifiers.
 - [Formula 1 Design Optimisation](---): Applied aerodynamic principles (fluid dynamics, thrust, drag, lift) to optimise F1 car performance, achieving 2nd place overall in a competition.
 
